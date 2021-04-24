@@ -1,1 +1,2 @@
-# PRO-C21-BULLETS-AND-WALLS
+# collisionAlgorithm
+Algorithm to detect collision between two objects
